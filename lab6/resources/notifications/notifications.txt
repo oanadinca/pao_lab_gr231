@@ -1,0 +1,2 @@
+Notification <Product tony was added to the shop> successfully sent to john@gmail.com
+Notification <Product adam was added to the shop> successfully sent to john@gmail.com
