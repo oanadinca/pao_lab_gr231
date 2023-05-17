@@ -12,7 +12,7 @@ public class DatabaseConnection {
 
 	public static Connection getInstance() throws SQLException {
 		if(connection == null) {
-			String url = "jdbc:mysql://localhost:3306/mybank-test";
+			String url = "jdbc:mysql://localhost:3306/mybank";
 			String username = "root";
 			String password = "";
 			connection = DriverManager.getConnection(url, username, password);
